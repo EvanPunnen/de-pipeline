@@ -1,4 +1,3 @@
-print("This commit will be reverted")
 print("MAIN + FEATURE CONFLICT RESOLVED")
 print("MAIN VERSION")
 print("My first Git Data Engineering project")
